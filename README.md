@@ -14,11 +14,12 @@ Install git
 
 Clone / Download this repository from your terminal
 
-> git clone https://github.com/verluchie/termux-metasploit
+> git clone https://github.com/SMDDarKiller/metasploit.git
+
 
 Get in directory 
 
-> cd termux-metasploit
+> cd metasploit
 
 Give Access Permission for install.sh
 
